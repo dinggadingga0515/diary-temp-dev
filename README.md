@@ -1,6 +1,6 @@
 # diary-temp-dev
 
-muz님의 크래커 다이어리 **v2.3.23**을 고친 개선판(Temp2)입니다. 필요한 부분은 자유롭게 가져다 쓰세요.
+크래커 다이어리 **v2.3.23**을 고친 개선판(Temp2)입니다. 필요한 부분은 자유롭게 가져다 쓰세요.
 
 - 파일: [`Cracker-Diary_v2.3.23_Temp2_UTF-8-BOM.txt`](Cracker-Diary_v2.3.23_Temp2_UTF-8-BOM.txt)
 - 사용법: 파일 내용을 Tampermonkey 새 스크립트에 붙여 넣습니다. 스크립트 이름이 달라 원본과 따로 설치되므로, 원본은 꺼 주세요.
